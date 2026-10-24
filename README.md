@@ -80,9 +80,6 @@
 
 - **Email**：sgeric910601@gmail.com
 - **GitHub**：[sgeric910601](https://github.com/sgeric910601)
-
-> **夢想**：結合人工智慧與水利工程，創造更智慧的水資源管理與防災系統，造福人類社會。
-
 ---
 
 <a id="english"></a>
@@ -139,5 +136,3 @@ I also build small macOS / Linux tools to make everyday things work better.
 
 - **Email**: sgeric910601@gmail.com
 - **GitHub**: [sgeric910601](https://github.com/sgeric910601)
-
-> **Dream**: combine AI with hydraulic engineering to build smarter water resource management and disaster prevention systems that benefit society.
