@@ -21,7 +21,7 @@
 ## 關於我
 
 我是國立陽明交通大學土木工程學系水利組的碩士生，研究**邊坡落石的偵測與預警**。
-喜歡把 AI、影像處理和 IoT 帶進工程現場，也常寫一些 macOS／Linux 小工具，把每天會用到的東西做得更順手。
+我也常寫一些 macOS／Linux 小工具，把每天會用到的東西做得更順手。
 
 ---
 
@@ -92,7 +92,7 @@
 ### About me
 
 I'm a master's student in Hydraulic Engineering at the Department of Civil Engineering, National Yang Ming Chiao Tung University (NYCU), working on **rockfall detection and early warning** for slopes.
-I enjoy bringing AI, computer vision and IoT into the field, and I build small macOS / Linux tools to make everyday things work better.
+I also build small macOS / Linux tools to make everyday things work better.
 
 ### Research: rockfall detection & early warning
 
